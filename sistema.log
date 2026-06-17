@@ -1,0 +1,4 @@
+[2024-01-10 08:00] INFO sistema iniciado
+[2024-01-10 08:05] ERROR falha na conexão
+[2024-01-10 08:10] WARNING memória alta
+[2024-01-10 08:20] ERROR timeout

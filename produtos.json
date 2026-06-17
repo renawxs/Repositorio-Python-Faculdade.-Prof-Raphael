@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Notebook",
+        "preco": 3599.9,
+        "estoque": 15
+    },
+    {
+        "id": 2,
+        "nome": "Mouse",
+        "preco": 129.9,
+        "estoque": 42
+    },
+    {
+        "id": 3,
+        "nome": "Teclado",
+        "preco": 239.9,
+        "estoque": 30
+    },
+    {
+        "id": 4,
+        "nome": "Monitor",
+        "preco": 1899.0,
+        "estoque": 8
+    },
+    {
+        "id": 5,
+        "nome": "Headset",
+        "preco": 399.9,
+        "estoque": 25
+    }
+]
